@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  my-tinder-version
 //
-//  Created by Silvia L Mendez on 11/20/18.
+//  Created by Luis Mendez on 11/20/18.
 //  Copyright © 2018 Luis Mendez. All rights reserved.
 //
 
