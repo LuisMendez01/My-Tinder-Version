@@ -1,33 +1,33 @@
 
-# Lab 8 - *Name of App Here*
+# Lab 8 - *My-Tinder-Version*
 
-**Name of your app** is a mock Tindr app featuring gestures and custom transitions
+**My-Tinder-Version** is a mock Tindr app featuring gestures and custom transitions
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
 The following **required** user stories are complete:
 
-- [ ] User can drag card using a pan gesture (+1pt)
-- [ ] Card rotates as user pans (+1pt)
-- [ ] Card animates when user ends panning gesture (+2pt)
-- [ ] User can view profile - basic modal transition (+1pt)
+- [x] User can drag card using a pan gesture (+1pt)
+- [x] Card rotates as user pans (+1pt)
+- [x] Card animates when user ends panning gesture (+2pt)
+- [x] User can view profile - basic modal transition (+1pt)
 
 The following **stretch** user stories are implemented:
 
-- [ ] User can view profile - custom modal transition (+2pt)
+- [x] User can view profile - custom modal transition (+2pt)
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. ImageTranstion class.
+2. Make a modal transition have items fade in but have image do not fade in but to bounce instead.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/RN9JhHZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2018] [Luis Mendez]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
